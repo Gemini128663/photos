@@ -12,4 +12,4 @@
 
 install_vscode:
 
-![照片](install_vscode.png)
+![照片](/install_vscode.png)
